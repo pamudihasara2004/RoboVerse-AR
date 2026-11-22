@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RoboVerse AR/Scenes/MainMenu.unity
+    guid: f597a9807a8964c40a95e10754a5e025
+  - enabled: 1
+    path: Assets/RoboVerse AR/Scenes/MappingZone.unity
+    guid: 6f7c3294b9d0eae4f97d1c3e95e4ce5a
+  - enabled: 1
+    path: Assets/RoboVerse AR/Scenes/ObstacleAvoidanceArena.unity
+    guid: 8f8d75d494aba0b4f85b92841fe4fa15
+  - enabled: 1
+    path: Assets/RoboVerse AR/Scenes/PathPlanningLab.unity
+    guid: 22b8ff196efdbbe42b68376798568dd4
+  - enabled: 1
+    path: Assets/RoboVerse AR/Scenes/QuizScene.unity
+    guid: b3e4d3930a74c264689c51e4387e9a87
+  - enabled: 1
+    path: Assets/RoboVerse AR/Scenes/ResultsScene.unity
+    guid: 8ab93764985acc34aa53489973e14b63
+  - enabled: 1
+    path: Assets/RoboVerse AR/Scenes/RobotVisionLab.unity
+    guid: 22e42d5399ecfe6438b2969a14d76754
+  - enabled: 1
+    path: Assets/RoboVerse AR/Scenes/SensorWorld.unity
+    guid: fab2390c12a7411488721938e9fac748
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: bf5f9b8de4ca19f4d96146fe186d959f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 92502ab9dc74a8244bf5275cafb2e540, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ab9bc4cd8d79bc14bbb89e480b5d2f8a, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3a40f567ae7b8034ca133d208511a427, type: 2}
